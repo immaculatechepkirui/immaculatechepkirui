@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineer** based in **Kenya** with a passion for building technology that empowers people and improves everyday life. I specialize in creating innovative solutions that solve real-world problems across **web development**, **mobile development**, **AI & ML**, and **UX Research**.
+I'm a **Software Engineer** based in **Kenya** — portfolio at [immaculatechepkirui-portfolio.vercel.app](https://immaculatechepkirui-portfolio.vercel.app) — with a passion for building technology that empowers people and improves everyday life. I specialize in creating innovative solutions that solve real-world problems across **web development**, **mobile development**, **AI & ML**, and **UX Research**.
 
 My mission is to bridge the gap between technology and tangible impact—whether it's helping Rwandan farmers improve their skills or connecting Kenyan artisans with global buyers.
 
@@ -110,10 +110,14 @@ Comprehensive training in full-stack development, product management, UX researc
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chepkiruiimmaculatekogo@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254725210078)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/she.be.immah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/immaculate-chepkirui-b775b1355)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/immah_leley_kaku)
 
 ### 📌 Important Links
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-9c27b0?style=for-the-badge&logo=globe&logoColor=white)](https://immahportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-9c27b0?style=for-the-badge&logo=globe&logoColor=white)](https://immaculatechepkirui-portfolio.vercel.app)
+
+**Portfolio:** [immaculatechepkirui-portfolio.vercel.app](https://immaculatechepkirui-portfolio.vercel.app)
 
 </div>
 
